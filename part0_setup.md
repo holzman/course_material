@@ -10,11 +10,12 @@ chmod 600 fastml_rsa
 
 ### Find your IP address
 
-Check for your name in the following google doc:
+Put your name (column A) next to an IP address / instance ID.
 
 https://tinyurl.com/hls4ml-demo
 
-(Check it again on Friday morning - it will change!)
+(Check the spreadsheet tomorrow - your name will still be there with the
+same instance, but the IP address will change!)
 
 ### ssh to your instance
 
